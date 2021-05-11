@@ -1,0 +1,25 @@
+body{
+    background-color: #2acd9f;
+}
+div.center{
+    text-align: center;
+}
+img.resize{
+    width: 30%;
+}
+p{
+    text-align: center;
+    color: #D6FEE2;
+    font-size: 25px;
+}
+button.reshape{
+    font-size: 25px;
+    color: #2acd9f;
+    background: #e3fde6;
+    padding: 4px 20px;
+    border: none;
+    cursor: pointer;
+}
+button.reshape:hover{
+    background: #c5f0d7;
+}
