@@ -1,0 +1,27 @@
+.center{
+    text-align: center;
+}
+p.horizon{
+    margin: 0px 174px;
+}
+p.inline-block_text{
+    font-size: 40px;
+    padding: 4px 20px;
+    display: inline-block;
+    background-color: #dfdfdf;
+}
+button.horizon{
+    margin: 0px 150px;
+}
+button.reshape{
+    font-size: 25px;
+    color: #eeff00;
+    background: #fc0202;
+    border-radius: 20px;
+    padding: 4px 20px;
+    border: solid 3px #000000;
+    cursor: pointer;
+}
+button.reshape:hover{
+    background: #a80000;
+}
