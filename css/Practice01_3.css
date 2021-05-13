@@ -1,3 +1,6 @@
+body{
+    background-color: #7c7c7c;
+}
 .center{
     text-align: center;
 }
@@ -8,7 +11,7 @@ p.inline-block_text{
     font-size: 40px;
     padding: 4px 20px;
     display: inline-block;
-    background-color: #dfdfdf;
+    background-color: #ddffdf;
 }
 button.horizon{
     margin: 0px 150px;
