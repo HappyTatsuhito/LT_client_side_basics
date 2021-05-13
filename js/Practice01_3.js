@@ -5,6 +5,11 @@ var rand3 = Math.floor(Math.random() * 10);
 
 function StartButtonClick(){
     flag1=false, flag2=false, flag3=false;
+    while(!flag1 || !flag2 || !flag3){
+        if(!flag1){rand1 = Math.floor(Math.random() * 10);}
+        if(!flag2){rand2 = Math.floor(Math.random() * 10);}
+        if(!flag3){rand3 = Math.floor(Math.random() * 10);}
+    }
 }
 
 function StopButtonClick1(){
